@@ -53,11 +53,12 @@ class BarChartWidget extends StatelessWidget {
                   style: TextStyle(fontWeight: FontWeight.normal, fontSize: 10),
                 ),
               sideTitles: SideTitles(
-                showTitles: true,
                 getTitlesWidget: (double value, TitleMeta meta) {
                   return Text('${(value - 1).toInt()}',
                       style: const TextStyle(fontSize: 11));
                 },
+                showTitles: true,
+                reservedSize: 20,
               ),
             ),
             rightTitles: AxisTitles(sideTitles: SideTitles(showTitles: false)),
