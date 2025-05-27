@@ -16,6 +16,12 @@ This Flutter application allows users to calculate compound interest based on th
 - Allows saving and loading of multiple investment strategies
 - Automatically preserves your last entered values between sessions
 
+## Screenshots
+
+![Image 1](screenshots/compound_interest_calculator_01.png)![Image 2](screenshots/compound_interest_calculator_02.png)
+![Image 3](screenshots/compound_interest_calculator_03.png)![Image 4](screenshots/compound_interest_calculator_04.png)
+![Image 5](screenshots/compound_interest_calculator_05.png)![Image 6](screenshots/compound_interest_calculator_06.png)
+
 ## Project Structure
 
 ```
@@ -76,7 +82,7 @@ compound_interest_calculator
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
+Contributions are welcome! However, please reach out first before spending any  time working on any issue or submitting a pull request for any enhancements or bug fixes.
 
 ## License
 
