@@ -82,10 +82,12 @@ compound_interest_calculator
 
 ## Contributing
 
-Contributions are welcome! However, please reach out first before spending any  time working on any issue or submitting a pull request for any enhancements or bug fixes.
+Contributions are welcome! However, please reach out first before spending any time working on any issue or submitting a pull request for any enhancements or bug fixes.
 
 ## License
 
 This project is licensed for **non-commercial use only** under the [Custom Non-Commercial License](LICENSE).
 
-For commercial use, please contact me (me@mrstevenpalmer.com) to obtain a commercial license.
+For commercial use, please contact me at me@mrstevenpalmer.com to obtain a commercial license.
+
+NOTE: An upgraded "Pro" version of this project, with additional features, is also available. Additional features include export/share to PDF, light/dark mode, and other UX/UI improvements.
